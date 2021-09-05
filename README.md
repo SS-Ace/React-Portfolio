@@ -1,3 +1,7 @@
+#To check the portfolio: https://ss-ace.github.io/React-Portfolio/ made with React JS and Chakra UI.
+
+References: Codepur: https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
